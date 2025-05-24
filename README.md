@@ -5,4 +5,14 @@ Somewhat of a web developer, but also do some projects outside of that every now
 C'ya'll around!
 ##
 
-![stats_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="programming language usage statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</picture>
