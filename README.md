@@ -4,7 +4,18 @@ Somewhat of a web developer, but also do some projects outside of that every now
 
 C'ya'll around!
 ##
-
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&theme=dark&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="200vh" src="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false" />
+</picture>
+&#8195;
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
@@ -15,15 +26,4 @@ C'ya'll around!
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height="180vh" alt="programming language usage statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&theme=dark&hide_border=false"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180vh" src="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false" />
 </picture>
