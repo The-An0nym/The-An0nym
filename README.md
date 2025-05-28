@@ -12,7 +12,7 @@ C'ya'll around!
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false"
   />
-  <img als="Streak statistics src="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false" />
+  <img als="Streak statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false" />
 </picture>
 &#8194;
 <objec>
