@@ -9,10 +9,10 @@ C'ya'll around!
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&theme=dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
-  <img als="Streak statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false" />
+  <img alt="Streak statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false" />
 </picture>
 &#8194;
-<objec>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     media="(prefers-color-scheme: dark)"
