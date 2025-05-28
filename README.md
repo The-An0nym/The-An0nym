@@ -9,9 +9,6 @@ C'ya'll around!
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&theme=dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false"
-  />
   <img als="Streak statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=the-an0nym&hide_border=false" />
 </picture>
 &#8194;
@@ -19,9 +16,6 @@ C'ya'll around!
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   />
   <img alt="programming language usage statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-an0nym&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </picture>
