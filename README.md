@@ -1,8 +1,5 @@
-Hello there!
+Mainly focused on web and game development & mostly work with `JavaScript` (in combination with `CSS` and `HTML`) but have also attempted `Java`, `PHP`, `C#` and `Python`.
 
-Somewhat of a web developer, but also do some projects outside of that every now and then (e.g. game development). I mostly work with `JavaScript` (and of course `CSS` and `HTML`) but have also attempted some other languages like `PHP`, `C#` and `Python`
-
-C'ya'll around!
 ##
 <picture>
   <source
